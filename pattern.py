@@ -6,3 +6,4 @@ def func1():
 	print("\t I'm stuyding in ",r)
 	print("I live in",s)
 func1()
+print("f u")
